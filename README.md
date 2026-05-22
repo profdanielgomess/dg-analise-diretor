@@ -1,2 +1,18 @@
-# dg-analise-diretor
-Sistema inteligente de análise pedagógica com dashboards, acompanhamento escolar e insights educacionais.
+# DG Analytics
+
+Sistema inteligente de análise pedagógica com dashboards educacionais.
+
+## Funcionalidades
+- Importação Excel
+- Dashboard inteligente
+- Acompanhamento por turma
+- Insights pedagógicos
+- IA educacional
+
+## Tecnologias
+- Python
+- PySide6
+- Pandas
+- Matplotlib
+
+## Screenshots
